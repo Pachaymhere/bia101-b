@@ -1,0 +1,7 @@
+var1= 10
+name = "Pema"
+name2= "Pema"
+score= 10.1 
+
+print(type(var1))
+print(type(name))
