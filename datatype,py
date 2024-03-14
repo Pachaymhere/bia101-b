@@ -1,7 +1,8 @@
-var1= 10
+var1= 10 # integer
 name = "Pema"
 name2= "Pema"
-score= 10.1 
+score= 10.1 #float
+isheman= True # boolean
 
 print(type(var1))
 print(type(name))
