@@ -1,4 +1,4 @@
-# time complexity of bubble sort = O(n^2)
+# time and space complexity of bubble sort and insertion sort= O(n^2)
 input_arr = [6,3,1,5,0]
 
 def bubble_sort(arr):
